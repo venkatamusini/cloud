@@ -1,0 +1,4 @@
+a =10
+
+echo "the value is ready"
+echo "the value for the final intimation is : $a"
